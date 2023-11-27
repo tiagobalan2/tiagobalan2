@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👍😊, I'm Tiago</h1>
 <h3 align="center">A software engineering student</h3>
 
-- 🔭 I’m currently working on **Dealn, a website and app where you can sell your products and services. It's an academic project.**
-
-- 📘 I'm currently studying at **Unifil**
+- 📘 I'm currently studying at **Unifil**, first year of the graduation
 
 - 🏬 I'm currently living in **Londrina**
 
