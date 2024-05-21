@@ -4,6 +4,10 @@
 
 - 📘 I'm currently studying at **Unifil**, second year of the graduation
 
+- Habilities on Java, SQL, HTML and CSS, JS, and others.
+
+- Advanced English level
+
 - 🏬 I'm currently living in **Londrina**
 
 - 📫 How to contact me **tiagobalan@edu.unifil.br**
