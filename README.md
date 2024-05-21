@@ -8,6 +8,8 @@
 
 - Advanced English level
 
+- https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+
 - 🏬 I'm currently living in **Londrina**
 
 - 📫 How to contact me **tiagobalan@edu.unifil.br**
