@@ -9,7 +9,7 @@
 <br>
 - 📫 How to contact me tiagobalan@edu.unifil.br
 <br>
-- My portfolio: https://tiagobalan2.github.io/portfolio/
+- My portfolio: <a href="https://tiagobalan2.github.io/portfolio/" target="_blank">My portfolio</a>
 <br>
 <br>
 
@@ -26,7 +26,7 @@
 <br>
 <div> 
   
-<a href="mailto:tiagobalan@edu.unifil.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 <a href="https://www.linkedin.com/in/tiago-balan-ld15" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
