@@ -2,9 +2,13 @@
 <h1 align="center">Hi 👍😊, I'm Tiago</h1>
 <h3 align="center">software engineering student</h3>
 - 📘 I'm currently studying at Unifil, second year of the graduation
+<br>
 - 😁 Advanced English level
+<br>
 - 🏬 I'm currently living in Londrina
-- 📫 How to contact me **tiagobalan@edu.unifil.br**
+<br>
+- 📫 How to contact me tiagobalan@edu.unifil.br
+<br>
 - My portfolio: https://tiagobalan2.github.io/portfolio/
 <br>
 <br>
