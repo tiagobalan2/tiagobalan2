@@ -3,7 +3,7 @@
 <h3 align="center">software engineering student</h3>
 - 📘 I'm currently studying at Unifil, second year of the graduation
 - 😁 Advanced English level
-- 🏬 I'm currently living in **Londrina**
+- 🏬 I'm currently living in Londrina
 - 📫 How to contact me **tiagobalan@edu.unifil.br**
 - My portfolio: https://tiagobalan2.github.io/portfolio/
 <br>
