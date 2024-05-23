@@ -5,6 +5,7 @@
 - 😁 Advanced English level
 - 🏬 I'm currently living in **Londrina**
 - 📫 How to contact me **tiagobalan@edu.unifil.br**
+- My portfolio: https://tiagobalan2.github.io/portfolio/
 <br>
 <br>
 
