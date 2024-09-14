@@ -9,7 +9,6 @@
 <br>
 - 📫 How to contact me tiagobalan@edu.unifil.br
 <br>
-- My portfolio: <a href="https://tiagobalan2.github.io/portfolio/" target="_blank">My portfolio</a>
 <br>
 <br>
 
